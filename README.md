@@ -1,15 +1,26 @@
 # Jam Constructor
 
+Registration:
 ![Screenshot](/public/images/registration.png)
+Home Page:
 ![Screenshot](/public/images/home.png)
+Create Playlist:
 ![Screenshot](/public/images/createplaylist.png)
+Playlist List:
 ![Screenshot](/public/images/playlist.png)
+Playlist Detail:
 ![Screenshot](/public/images/playlistdetail.png)
+Playlist Review:
 ![Screenshot](/public/images/playlistreview.png)
+Add Song:
 ![Screenshot](/public/images/addsong.png)
+Song List:
 ![Screenshot](/public/images/songlist.png)
+Song Detail:
 ![Screenshot](/public/images/songdetail.png)
+Song Review:
 ![Screenshot](/public/images/songreview.png)
+My Playlist:
 ![Screenshot](/public/images/myplaylist.png)
 
 ## Overview :
